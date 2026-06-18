@@ -2,7 +2,7 @@
 
 <table border="0">
   <tr>
-    <img width="436" height="214" alt="siren-aesthetic" src="https://github.com/user-attachments/assets/fde0075e-fa96-4116-b722-4e659177d5d7" />
+    <img width="436" align="right" alt="siren-aesthetic" src="https://github.com/user-attachments/assets/fde0075e-fa96-4116-b722-4e659177d5d7" />
     <col width="60%">
     <td valign="top">
 
