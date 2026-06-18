@@ -2,7 +2,7 @@
 
 <table border="0">
   <tr>
-    <img width="736" height="414" alt="siren-aesthetic" src="https://github.com/user-attachments/assets/fde0075e-fa96-4116-b722-4e659177d5d7" />
+    <img width="436" height="214" alt="siren-aesthetic" src="https://github.com/user-attachments/assets/fde0075e-fa96-4116-b722-4e659177d5d7" />
     <col width="60%">
     <td valign="top">
 
@@ -37,4 +37,5 @@ Hello, i'm LexVik, i'm a french developer and Game designer, i work a multiple p
 * [Sharkuses] - Coming Soon
 
 <br>
-<img src="https://pin.it/70fuSz3RT" alt="Visitor Counter" />
+<img width="564" height="317" alt="the-only-cutie-_An-image-capturing-charm-and-innocence_-perfectly-sweet-and-alluring_-guaranteed-to-" src="https://github.com/user-attachments/assets/71979e9f-b117-4200-a430-637f0cf5aedb" />
+
