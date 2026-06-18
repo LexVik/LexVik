@@ -1,6 +1,8 @@
+
+
 <table border="0">
   <tr>
-    <img src="https://pin.it/1KAMIFWp7" width="100%" alt="Terminal Error" />
+    <img width="736" height="414" alt="siren-aesthetic" src="https://github.com/user-attachments/assets/fde0075e-fa96-4116-b722-4e659177d5d7" />
     <col width="60%">
     <td valign="top">
 
